@@ -1,7 +1,7 @@
 # Usage of variables and math operations in Python
 
-name = "Emir"
-lastname = "Karakaya"
+name = "Skiller"
+lastname = "Draig"
 fullname = name + " " + lastname
 print(f"Full name: {fullname}")
 
